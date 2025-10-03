@@ -150,7 +150,4 @@ MIT License - feel free to use this as a template for your own extensions!
 
 ## 🤝 Contributing
 
-This is a template project, but feel free to fork and enhance it!
----
-
-**Happy coding! 🎉**
+Feel free to contribute to the project!
