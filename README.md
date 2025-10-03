@@ -23,7 +23,7 @@ A Chrome/Edge extension for applying customizable blur effects to web pages, bui
 
 - Node.js (v16 or higher)
 - npm or yarn
-- Google Chrome browser
+- Google Chrome or Microsoft Edge
 
 ## 🔧 Installation & Setup
 
