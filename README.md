@@ -82,20 +82,13 @@ blur-filter-chrome/
 │   └── content/            # Content scripts
 │       └── content.ts      # Blur filter logic
 ├── public/
-│   └── icons/              # Extension icons (add your icons here)
+│   └── icons/              # Extension icons
 ├── manifest.json           # Extension manifest (Manifest V3)
 ├── index.html              # Popup HTML template
 ├── vite.config.ts          # Vite configuration
 ├── tsconfig.json           # TypeScript configuration
 └── package.json            # Project dependencies
 ```
-
-## 🎨 Adding Icons
-
-Create icons in the `public/icons/` directory:
-- `icon16.png` - 16x16 pixels
-- `icon48.png` - 48x48 pixels  
-- `icon128.png` - 128x128 pixels
 
 ## 🔍 How It Works
 
