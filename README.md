@@ -1,6 +1,6 @@
 # Blur Filter Chrome Extension
 
-A Chrome/Edge extension for applying blur effects to web pages. Built with TypeScript, React, and Vite.
+A Chrome/Edge extension for applying blur effects to web pages. Extension is built with TypeScript, React, and Vite.
 
 ## 🚀 Features
 
