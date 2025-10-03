@@ -43,18 +43,18 @@ npm run dev
 
 This will create a `dist` folder with the development build.
 
-### 3. Load Extension in Chrome
+### 3. Load Extension in Chrome/Edge
 
 1. Open Chrome and navigate to `chrome://extensions/`
 2. Enable "Developer mode" (toggle in top-right corner)
 3. Click "Load unpacked"
+4. Select the `dist` folder from this project
 
 > Note: Microsoft Edge (Chromium) supports Chrome extensions. To load the extension in Edge:
 
 1. Open Edge and go to `edge://extensions/`
 2. Enable "Developer features" (bottom-left)
 3. Click "Load unpacked"
-4. Select the `dist` folder from this project
 4. Select the `dist` folder from this project
 
 ### 4. Development Workflow
